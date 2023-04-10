@@ -1,3 +1,6 @@
+data/stop_level/**/*.csv
+data/stop_level/**/*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
